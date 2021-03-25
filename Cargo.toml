@@ -1,0 +1,12 @@
+[package]
+name = "Anxiety"
+version = "0.0.0"
+authors = ["Ziyad <ziyadalagla@gmail.com>"]
+edition = "2018"
+license = "Apache-2.0"
+description = "Symbolic Execution Framework"
+repository = "https://github.com/hackphobic/Anxiety"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
